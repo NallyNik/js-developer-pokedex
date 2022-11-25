@@ -1,8 +1,14 @@
 
-class Pokemon {
-    number;
+class Pokemon{
     name;
+    id;
     type;
     types = [];
-    photo;
+    image;
+    hp;
+    attack;
+    defense;
+    specialAttack;
+    specialDefense;
+    speed;
 }
